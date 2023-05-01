@@ -76,5 +76,3 @@ Visit the application in your browser at `https://localhost:<port>`, replacing `
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-This README includes a description of the project, its features, prerequisites, installation steps, and license information. The installation steps include creating the directories for uploads and compressed images.
