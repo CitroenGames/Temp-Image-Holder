@@ -75,4 +75,3 @@ Visit the application in your browser at `https://localhost:<port>`, replacing `
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
